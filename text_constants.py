@@ -1,0 +1,1 @@
+MAIN_MENU_SUMMARY = "This application allows you to easily upload images, define custom cutting grids, and save the resulting smaller sections. Use the 'Upload Image' button to get started, and explore features like grid customization and preset management to streamline your image processing tasks. Enjoy a seamless and intuitive experience with Image Cutter!"
